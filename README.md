@@ -63,20 +63,20 @@ A seguir estão algumas das principais visualizações geradas durante a anális
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4d4e156b-1102-4f28-81d0-dee52c9b7dc9" width="420"/>
       <br/>
-      <strong> Sobrevivência por sexo </strong>
+      <strong>Sobrevivência por sexo</strong>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="" width="420"/>
+      <img src="https://github.com/user-attachments/assets/ac1a9e6b-ec36-41fb-a042-4915b1caafc9" width="420"/>
       <br/>
-      <strong>KPI | Abate</strong>
+      <strong>Tarifa Média por local de embarque</strong>
     </td>
     <td align="center">
-      <img src="" width="420"/>
+      <img src="https://github.com/user-attachments/assets/16df0f81-0ab6-4ba5-af79-024505069a6" width="420"/>
       <br/>
-      <strong>KPI | Quebra de Frio</strong>
+      <strong>Distribuição de idade dos passageiros</strong>
     </td>
   </tr>
 
@@ -97,8 +97,8 @@ A seguir estão algumas das principais visualizações geradas durante a anális
 </div>
 
 <img width="1500" height="900" alt="Figure_2" src="" />
-<img width="1500" height="900" alt="Figure_3" src="https://github.com/user-attachments/assets/ac1a9e6b-ec36-41fb-a042-4915b1caafc9" />
-<img width="1500" height="900" alt="Figure_4" src="https://github.com/user-attachments/assets/16df0f81-0ab6-4ba5-af79-024505069a68" />
+<img width="1500" height="900" alt="Figure_3" src="" />
+<img width="1500" height="900" alt="Figure_4" src="8" />
 
 
 
