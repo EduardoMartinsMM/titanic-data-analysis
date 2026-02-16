@@ -47,3 +47,14 @@ NumPy
 Matplotlib
 
 Seaborn
+
+## 📊 Análise Exploratória – Visualizações
+
+A seguir estão algumas das principais visualizações geradas durante a análise exploratória do dataset Titanic.
+<img width="1000" height="700" alt="Figure_1" src="https://github.com/user-attachments/assets/fd44e501-ee73-4fc8-b8a8-761125e81912" />
+<img width="1500" height="900" alt="Figure_2" src="https://github.com/user-attachments/assets/4d4e156b-1102-4f28-81d0-dee52c9b7dc9" />
+<img width="1500" height="900" alt="Figure_3" src="https://github.com/user-attachments/assets/ac1a9e6b-ec36-41fb-a042-4915b1caafc9" />
+<img width="1500" height="900" alt="Figure_4" src="https://github.com/user-attachments/assets/16df0f81-0ab6-4ba5-af79-024505069a68" />
+
+
+
