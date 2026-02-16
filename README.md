@@ -74,7 +74,7 @@ A seguir estão algumas das principais visualizações geradas durante a anális
       <strong>Tarifa Média por local de embarque</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/16df0f81-0ab6-4ba5-af79-024505069a6" width="420"/>
+      <img src="https://github.com/user-attachments/assets/f388cf63-9bb9-4290-98ce-91b82218f82f" width="420"/>
       <br/>
       <strong>Distribuição de idade dos passageiros</strong>
     </td>
@@ -96,9 +96,5 @@ A seguir estão algumas das principais visualizações geradas durante a anális
 
 </div>
 
-<img width="1500" height="900" alt="Figure_2" src="" />
-<img width="1500" height="900" alt="Figure_3" src="" />
-<img width="1500" height="900" alt="Figure_4" src="8" />
 
-
-
+<img width="1500" height="900" alt="Figure_4" src="https://github.com/user-attachments/assets/f388cf63-9bb9-4290-98ce-91b82218f82f" />
