@@ -82,14 +82,14 @@ A seguir estão algumas das principais visualizações geradas durante a anális
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/72de2a25-fcfc-407a-bf76-831af3187fd5" width="450"/>
+      <img src="https://github.com/user-attachments/assets/72de2a25-fcfc-407a-bf76-831af3187fd5" width="420"/>
       <br/>
       <strong>Relação entre idade e valor da tarifa</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1077809f-9951-4bd6-9960-0dcbee0b414c" width="450"/>
+      <img src="https://github.com/user-attachments/assets/1077809f-9951-4bd6-9960-0dcbee0b414c" width="420"/>
       <br/>
-      <strong>tarifa Média por classe</strong>
+      <strong>Tarifa Média por classe</strong>
     </td>
   </tr>
 </table>
