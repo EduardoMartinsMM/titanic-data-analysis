@@ -82,19 +82,16 @@ A seguir estão algumas das principais visualizações geradas durante a anális
 
   <tr>
     <td align="center">
-      <img src="" width="420"/>
+      <img src="https://github.com/user-attachments/assets/72de2a25-fcfc-407a-bf76-831af3187fd5" width="450"/>
       <br/>
-      <strong>KPI | Rendimento de Miúdos</strong>
+      <strong>Relação entre idade e valor da tarifa</strong>
     </td>
     <td align="center">
-      <img src="" width="420"/>
+      <img src="https://github.com/user-attachments/assets/1077809f-9951-4bd6-9960-0dcbee0b414c" width="450"/>
       <br/>
-      <strong>KPI | Rendimento Desossa</strong>
+      <strong>tarifa Média por classe</strong>
     </td>
   </tr>
 </table>
 
 </div>
-
-
-<img width="1500" height="900" alt="Figure_4" src="https://github.com/user-attachments/assets/f388cf63-9bb9-4290-98ce-91b82218f82f" />
